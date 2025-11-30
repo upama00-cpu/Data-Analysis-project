@@ -1,7 +1,6 @@
 # Data-Analysis-project
 Data Analysis project power Bi and Tableau
 # 📊 Sales Analytics Dashboard — Power BI & Tableau
-### Companion Repository for the Medium Article  
 **“Why Dashboard Design Matters: My Approach to Power BI and Tableau Sales Analytics”**
 
 🔗 **Read the full article:**  
