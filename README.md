@@ -36,7 +36,7 @@ Let’s walk through both dashboards, the design logic behind them, and what ins
 ### 🖼️ Project Screenshot  
 
 
-![Diet Coke Dashboard](assets/project1.png)
+![Diet Coke Dashboard](assets/project1.png.png)
 
 ### 🔹 Key Findings
 - **Total Revenue:** 107K  
@@ -58,7 +58,7 @@ Let’s walk through both dashboards, the design logic behind them, and what ins
 ### 🖼️ Project Screenshot  
 
 
-![Sales & Shipping Dashboard](assets/project2.png)
+![Sales & Shipping Dashboard](assets/project2.png.png)
 
 ### 🔹 Highlights
 - **Total Sales:** 6M  
@@ -86,7 +86,7 @@ Let’s walk through both dashboards, the design logic behind them, and what ins
 ### 🖼️ Project Screenshot  
 
 
-![Global Superstore Dashboard](assets/project3.png)
+![Global Superstore Dashboard](assets/project3.png.png)
 
 ### 🔹 Key Insights
 - **Top Category:** Technology  
