@@ -34,7 +34,7 @@ Let’s walk through both dashboards, the design logic behind them, and what ins
 ## 🚀 **Project 1 — Diet Coke Sales Dashboard (Power BI)**
 
 ### 🖼️ Project Screenshot  
-Upload your image in `assets/project1.png` then replace the path below:
+
 
 ![Diet Coke Dashboard](assets/project1.png)
 
@@ -56,7 +56,7 @@ Upload your image in `assets/project1.png` then replace the path below:
 ## 🚀 **Project 2 — Sales & Shipping Performance Dashboard (Power BI)**
 
 ### 🖼️ Project Screenshot  
-Upload your image in `assets/project2.png`:
+
 
 ![Sales & Shipping Dashboard](assets/project2.png)
 
@@ -84,7 +84,7 @@ Upload your image in `assets/project2.png`:
 ## 🚀 **Project 3 — Global Superstore Dashboard (Tableau)**
 
 ### 🖼️ Project Screenshot  
-Upload your image in `assets/project3.png`:
+
 
 ![Global Superstore Dashboard](assets/project3.png)
 
