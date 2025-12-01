@@ -1,4 +1,4 @@
-# 📊 Data Analytics Portfolio — Upama Shahani
+# 📊 Data Analytics Portfolio — Why Dashboard Design Matters: My Approach to Power BI and Tableau Sales Analytics
 
 Welcome to my Data Analytics Portfolio!  
 This repository showcases my analytical projects built using **Power BI**, **Tableau**, and **Essential/Superstore datasets**, highlighting my skills in dashboard design, data modeling, storytelling, and business insight generation.
@@ -22,7 +22,12 @@ I also hold a **Professional Certificate in Business Data Analytics** from **Bri
 
 
 
-# 📈 Portfolio Projects
+# 📈 Portfolio Projects - How I Designed Two High-Impact Sales Dashboards Using Power BI and Tableau
+Data visualization is no longer just a technical task — it has become one of the most essential skills for presenting business insights clearly, quickly, and visually. Whether you’re analyzing sales performance, shipping efficiency, or customer trends, a well-built dashboard can transform raw numbers into real decisions.
+
+In this post, I’m sharing two dashboards I created using Power BI and Tableau. Both dashboards focus on sales analytics, but each follows a different visualization philosophy. Power BI delivers a KPI-driven, business-style interface, while Tableau highlights storytelling and trend analysis.
+
+Let’s walk through both dashboards, the design logic behind them, and what insights they bring to decision-makers.
 
 
 
