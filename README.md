@@ -36,7 +36,7 @@ Let’s walk through both dashboards, the design logic behind them, and what ins
 ### 🖼️ Project Screenshot  
 
 
-![Diet Coke Dashboard](assets/Sales Shipping performance.jpg)
+![Diet Coke Dashboard](assets/project1.png)
 
 ### 🔹 Key Findings
 - **Total Revenue:** 107K  
